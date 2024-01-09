@@ -31,4 +31,3 @@ The script will display countdown messages and then put your system to sleep.
 
 > This script uses the pmset sleepnow command, which is specific to macOS. If you are using a different operating system, you may need to modify the script accordingly.
 > Ensure that you have the necessary permissions to execute the script and put the system to sleep.
-# letmesleep
